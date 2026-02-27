@@ -28,7 +28,7 @@ I bridge the gap between complex data modeling and actionable business strategy.
 ---
 
 ### ⚡ GitHub Stats
-* [Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=drawnparadigm-modelconsulting&show_icons=true&theme=transparent)
+* [Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=drawnparadigm-modelconsulting&show_icons=true&theme=radical)
 
 
 ## 📂 Featured Work
