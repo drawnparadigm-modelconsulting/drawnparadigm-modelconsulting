@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nick 👋
+### Model Consultant & Technical Strategist at Drawn Paradigm
 
-<!--
-**drawnparadigm-modelconsulting/drawnparadigm-modelconsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between complex data modeling and actionable business strategy. Based in **Dallas, TX**, I focus on building scalable systems and providing high-level technical consulting.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Expertise
+* **Modeling:** Statistical Modeling, Data Architecture, & Predictive Analytics.
+* **Strategy:** Technical Roadmapping, Process Optimization, & Consulting.
+* **Stack:** Python, SQL, Markdown, Git/GitHub, and AI-Assisted Development.
+
+### 🔭 Current Focus
+* 🚀 Leading technical initiatives at **Drawn Paradigm**.
+* 📊 Developing proprietary modeling frameworks for **Strategic Business Consulting**.
+* 🤝 Open to collaborating on innovative data driven projects.
+
+### 📫 Connect with Me
+- **Email:** [drawnparadigmmodeling@gmail.com](mailto:drawnparadigmmodeling@gmail.com)
+- **Website:** Coming soon
+
+---
+
+### ⚡ GitHub Stats
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=drawnparadigm-modelconsulting&show_icons=true&theme=transparent)
