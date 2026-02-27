@@ -15,7 +15,6 @@ I bridge the gap between complex data modeling and actionable business strategy.
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 * 📂 **Featured Framework:** [Strategic Modeling Methodology](https://github.com/drawnparadigm-modelconsulting/consulting-methodology) - A breakdown of my analytical approach.
 * 🚀 Leading technical initiatives at **Drawn Paradigm**.
 * 📊 Developing proprietary modeling frameworks for **Strategic Business Consulting**.
