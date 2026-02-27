@@ -1,4 +1,7 @@
 # Hi, I'm Nick 👋
+> **🚀 Available for Consulting:** I help businesses fix broken models and automate revenue tracking. 
+> [**Book a 15-Min Diagnostic Call**](mailto:your-email@example.com)
+
 ### Model Consultant & Technical Strategist at Drawn Paradigm
 
 I bridge the gap between complex data modeling and actionable business strategy. Based in **Dallas, TX**, I focus on building scalable systems and providing high-level technical consulting.
