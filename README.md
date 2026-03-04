@@ -1,4 +1,4 @@
-# Hi, I'm Nick 👋
+# I'm Nick, hello.
 > **🚀 Available for Consulting:** I help businesses fix broken models and automate revenue tracking. 
 > [**Book a 15-Min Diagnostic Call**](mailto:your-email@example.com)
 
